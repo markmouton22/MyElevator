@@ -1,0 +1,14 @@
+C:\Sandbox\Play Projects\MyElevator\MyElevator\MyElevator\obj\Debug\net6.0\MyElevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sandbox\Play Projects\MyElevator\MyElevator\MyElevator\obj\Debug\net6.0\MyElevator.AssemblyInfoInputs.cache
+C:\Sandbox\Play Projects\MyElevator\MyElevator\MyElevator\obj\Debug\net6.0\MyElevator.AssemblyInfo.cs
+C:\Sandbox\Play Projects\MyElevator\MyElevator\MyElevator\obj\Debug\net6.0\MyElevator.csproj.CoreCompileInputs.cache
+C:\Sandbox\Play Projects\MyElevator\MyElevator\MyElevator\bin\Debug\net6.0\MyElevator.exe
+C:\Sandbox\Play Projects\MyElevator\MyElevator\MyElevator\bin\Debug\net6.0\MyElevator.deps.json
+C:\Sandbox\Play Projects\MyElevator\MyElevator\MyElevator\bin\Debug\net6.0\MyElevator.runtimeconfig.json
+C:\Sandbox\Play Projects\MyElevator\MyElevator\MyElevator\bin\Debug\net6.0\MyElevator.dll
+C:\Sandbox\Play Projects\MyElevator\MyElevator\MyElevator\bin\Debug\net6.0\MyElevator.pdb
+C:\Sandbox\Play Projects\MyElevator\MyElevator\MyElevator\obj\Debug\net6.0\MyElevator.dll
+C:\Sandbox\Play Projects\MyElevator\MyElevator\MyElevator\obj\Debug\net6.0\refint\MyElevator.dll
+C:\Sandbox\Play Projects\MyElevator\MyElevator\MyElevator\obj\Debug\net6.0\MyElevator.pdb
+C:\Sandbox\Play Projects\MyElevator\MyElevator\MyElevator\obj\Debug\net6.0\MyElevator.genruntimeconfig.cache
+C:\Sandbox\Play Projects\MyElevator\MyElevator\MyElevator\obj\Debug\net6.0\ref\MyElevator.dll
